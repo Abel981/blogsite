@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import { Card, CardContent, CardMedia, Typography, makeStyles } from '@mui/material';
 
 const useStyles = makeStyles({
