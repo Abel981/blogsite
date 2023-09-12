@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "blocwebsite",
+=======
+  "name": "blogweb",
+>>>>>>> a0b3971 (Initial commit from Create Next App)
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +13,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.8",
     "autoprefixer": "10.4.15",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
+=======
+    "autoprefixer": "10.4.15",
+>>>>>>> a0b3971 (Initial commit from Create Next App)
     "next": "13.4.19",
     "postcss": "8.4.29",
     "react": "18.2.0",
